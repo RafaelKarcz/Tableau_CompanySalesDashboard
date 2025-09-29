@@ -9,13 +9,17 @@ Tableau dashboard presenting core business KPIs (Total Sales, Profit, Quantity),
 Live demo
 ---------
 
-View on Tableau Public <https://public.tableau.com/REPLACE_WITH_YOUR_SALES_URL>_
+`View on Tableau Public <https://public.tableau.com/views/Sales_Dashboard_17173950986130/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>`_
 
-Screenshot
-----------
+Screenshots
+-----------
 
 .. figure:: images/dashboard.png
    :alt: Company Sales — Tableau dashboard (KPIs, YoY, subcategory bars, weekly trends)
+   :width: 1200px
+
+.. figure:: images/dashboard_2.png
+   :alt: Company Sales — Tableau dashboard menu open (KPIs, YoY, subcategory bars, weekly trends)
    :width: 1200px
 
    Dashboard overview.
@@ -29,4 +33,4 @@ Notes
 License
 -------
 
-This project is licensed under the MIT License - see the LICENSE <LICENSE>_ file for details.
+This project is licensed under the MIT License - see the `LICENSE <LICENSE>`_ file for details.
